@@ -6,7 +6,7 @@ An automation program that takes a YAML configuration file as input and deploys 
 Full Description in the file  
 [Click here to open the file](https://fetch-hiring.s3.amazonaws.com/cloud-engineer/vm-deployment-aws.html)
 
-##Host System Specification   
+## Host System Specification   
 System specfications are as follows:
 
 OS: Ubuntu 20.04.2 LTS
